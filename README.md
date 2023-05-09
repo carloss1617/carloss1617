@@ -1,6 +1,14 @@
-### Hi there 👋
+### boas vindas ao meu perfil 🥇
 
-<!--
+_meu nome é carlos henrique_
+
+- estou estudando na alura
+- estou me desenvolvendo na liguagem  javaScript
+- utilizo esse espaço para minha organização  e compartilhamento  dos meu projeto desenvolvidos
+
+
+![]()
+https://tenor.com/pt-BR/view/neyney-neymar-neymar-jr-neymar-da-silva-santos-junior-footballer-gif-17799543
 **carloss1617/carloss1617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
